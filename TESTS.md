@@ -31,7 +31,7 @@ sudo -H pip3 install pytest
 - ## 10.1 Alterna Caracteres Contador
     ### Run command
     ```
-pytest assignments/10AlternaCaracteresContador    ```
+    pytest assignments/10.1AlternaCaracteresContador    ```
 
 
 - ## 23 Pino de Navidad
